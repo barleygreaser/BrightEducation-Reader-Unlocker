@@ -1,11 +1,11 @@
-# 📖 BrightEducation Reader Unlocker
+# BrightEducation Reader Unlocker
 
 This tool is designed to help students with **Dyslexia** or other reading needs by making digital textbooks more accessible. It "unlocks" the book reader so you can use text-to-speech tools like **Speechify**.
 
 ---
 
 ## 🧐 What is this?
-Many digital textbooks block your ability to right-click or highlight text to prevent copying. However, this also blocks helpful tools like **Speechify** from reading the text aloud to you. 
+Many digital textbooks block your ability to right-click or highlight text to prevent copying. However, this also blocks helpful tools like **Speechify** from reading the text aloud to you. Or just copy and pasting text.
 
 This script is a **Userscript**—a tiny piece of helper code that runs only on your computer. It tells the website to stop blocking your mouse, allowing you to highlight words and listen to them as you study.
 
@@ -51,6 +51,8 @@ To use this script, you need to install a "Manager" in your browser called **Vio
 ## ⚖️ Legal Note
 This script is intended for personal accessibility use (Reasonable Accommodation) for students with learning differences. Please use it responsibly and in accordance with your local copyright and accessibility laws.
 
-##Note for EdTech Companies
+---
+
+## Note for EdTech Companies
 
 Fuck you. Knowledge is free and infinate. Ebook 'renting' is a farce, and you should be ashamed for profiteering off of files and text on a screen. There is **no such thing** as artificial scarcity in the digital world; for your firm to force a physical-world profit model onto a digital medium is both hilarious and laughable. We will do everything in our power to reduce your revenue and liberate knowledge for the entire world, regardless of location or income."
