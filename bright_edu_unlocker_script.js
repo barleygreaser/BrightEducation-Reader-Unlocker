@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Unlocks right-click and text selection in BrightEducation epubjs reader for Speechify/Dyslexia support.
-// @author       barleymane
+// @author       barleygreaser
 // @match        https://www.brighteducation.io/*
-// @icon         https://www.brighteducation.io/images/general/logo-green.png
+// @icon         
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
